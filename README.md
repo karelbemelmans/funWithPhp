@@ -6,8 +6,8 @@ PHP 5.3 or later.
 
 ## How to run
 
-  `./path-to-object.php bedroom keys`
-  `./path-to-object.php kitchen knife`
+  - `./path-to-object.php bedroom keys`
+  - `./path-to-object.php kitchen knife`
 
 ## Short explanation about my code:
 
