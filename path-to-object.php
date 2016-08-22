@@ -3,7 +3,7 @@
 
 // Karel Bemelmans
 // mail@karelbemelmans.com
-// 2016/08/21
+// 2016/08/22
 
 /******************************************************************************/
 // Main program execution
