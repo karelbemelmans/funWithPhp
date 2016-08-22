@@ -17,8 +17,8 @@ PHP 5.3 or later.
 
 ## Bonus question:
 
-Bonus 1: This code already supports this. Just add multiple config.txt entries with different paths.
-Bonus 2: Adjust the weights on line 97 and 98, make the upwards path a higher value.
+  - Bonus 1: This code already supports this. Just add multiple config.txt entries with different paths.
+  - Bonus 2: Adjust the weights on line 97 and 98, make the upwards path a higher value.
 
 ## Limitations
 
